@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bddb9ed4-1d09-494a-8f5b-d322e51f7bba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/emreerinc/projects/homebrew-tap" value="3H67fhKCmCdOzC725PQVYtxvvUh" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="3" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="k6ZVufo8" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000181334397822" />
+      <entry key="MS500" value="1.3116629143791467" />
+      <entry key="S2" value="7.10541093886231" />
+      <entry key="S5" value="17.545325964288946" />
+      <entry key="S10" value="26.24561803821512" />
+      <entry key="S30" value="35.621469236066496" />
+      <entry key="S60" value="38.63993882766309" />
+      <entry key="M2" value="40.27460169704941" />
+      <entry key="M5" value="41.298590040886076" />
+      <entry key="M10" value="41.647388803038275" />
+      <entry key="M15" value="41.76449992691553" />
+      <entry key="M30" value="41.882036404840434" />
+      <entry key="H1" value="41.94096470226028" />
+      <entry key="H2" value="41.97046896225006" />
+      <entry key="H4" value="41.98523113217333" />
+      <entry key="D1" value="41.99753805674965" />
+      <entry key="W1" value="41.99964828242489" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.18176388069241986" />
+      <entry key="MS500" value="1.0060126432611174" />
+      <entry key="S2" value="6.967064131451932" />
+      <entry key="S5" value="17.468804306496658" />
+      <entry key="S10" value="26.200811175119977" />
+      <entry key="S30" value="35.60446319608343" />
+      <entry key="S60" value="38.63112079740157" />
+      <entry key="M2" value="40.27010877254669" />
+      <entry key="M5" value="41.2967720254145" />
+      <entry key="M10" value="41.64647625997276" />
+      <entry key="M15" value="41.7638907746435" />
+      <entry key="M30" value="41.88173143243281" />
+      <entry key="H1" value="41.94081211677084" />
+      <entry key="H2" value="41.97039264465666" />
+      <entry key="H4" value="41.98519296716105" />
+      <entry key="D1" value="41.99753169505072" />
+      <entry key="W1" value="41.99964737358958" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3H67fm4DYXYfBLfaMp3nFkR4cV2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/emreerinc/projects/homebrew-tap",
+    "org.rust.first.attach.projects": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bddb9ed4-1d09-494a-8f5b-d322e51f7bba" name="Changes" comment="" />
+      <created>1785176769885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785176769885</updated>
+    </task>
+    <servers />
+  </component>
+</project>
