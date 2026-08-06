@@ -5,21 +5,21 @@
 class Buum < Formula
   desc "Fast, multi-package manager updater CLI tool for macOS"
   homepage "https://github.com/EmreErinc/buum-cli"
-  version "0.1.2"
+  version "0.1.3"
   license "MIT"
 
   on_macos do
     if Hardware::CPU.intel?
-      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.2/buum-cli_0.1.2_darwin_amd64.tar.gz"
-      sha256 "f6fa8241c8cdacc5015640bef1181e93b819656d62b27cf4afb02127712e576f"
+      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.3/buum-cli_0.1.3_darwin_amd64.tar.gz"
+      sha256 "8eda3689cf5d6374725175d05fc4ff911a4f10197cec7c0887edb6fb0c3dbb3d"
 
       define_method(:install) do
         bin.install "buum"
       end
     end
     if Hardware::CPU.arm?
-      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.2/buum-cli_0.1.2_darwin_arm64.tar.gz"
-      sha256 "41c5019755e2ebbe46e6a32aa790ed6a87145c94e6003c789c0c674cd89d60e8"
+      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.3/buum-cli_0.1.3_darwin_arm64.tar.gz"
+      sha256 "65074bd02671a260df3be4416c19627a04b2187074281e586b57779e2ead1a1e"
 
       define_method(:install) do
         bin.install "buum"
@@ -29,15 +29,15 @@ class Buum < Formula
 
   on_linux do
     if Hardware::CPU.intel? && Hardware::CPU.is_64_bit?
-      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.2/buum-cli_0.1.2_linux_amd64.tar.gz"
-      sha256 "47d294311266d64616a38778ab7cf0db8beb30ec0a62d9f9776cdf6c34955440"
+      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.3/buum-cli_0.1.3_linux_amd64.tar.gz"
+      sha256 "b6dc56e75256cb72d7603244d992424b6d86cdb0a14cfca41428f600fccfe32b"
       define_method(:install) do
         bin.install "buum"
       end
     end
     if Hardware::CPU.arm? && Hardware::CPU.is_64_bit?
-      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.2/buum-cli_0.1.2_linux_arm64.tar.gz"
-      sha256 "c6de3097866879abbb95c1a1fd1b3f4d2f2bb01d806bad2b81c817593faac29d"
+      url "https://github.com/EmreErinc/buum-cli/releases/download/v0.1.3/buum-cli_0.1.3_linux_arm64.tar.gz"
+      sha256 "81184dba311b391320db40ce4147a95a21a458c2460c999b9d028e9e0f127fb0"
       define_method(:install) do
         bin.install "buum"
       end
