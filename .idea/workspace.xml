@@ -31,61 +31,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000181334397822" />
-      <entry key="MS500" value="1.3116629143791467" />
-      <entry key="S2" value="7.10541093886231" />
-      <entry key="S5" value="17.545325964288946" />
-      <entry key="S10" value="26.24561803821512" />
-      <entry key="S30" value="35.621469236066496" />
-      <entry key="S60" value="38.63993882766309" />
-      <entry key="M2" value="40.27460169704941" />
-      <entry key="M5" value="41.298590040886076" />
-      <entry key="M10" value="41.647388803038275" />
-      <entry key="M15" value="41.76449992691553" />
-      <entry key="M30" value="41.882036404840434" />
-      <entry key="H1" value="41.94096470226028" />
-      <entry key="H2" value="41.97046896225006" />
-      <entry key="H4" value="41.98523113217333" />
-      <entry key="D1" value="41.99753805674965" />
-      <entry key="W1" value="41.99964828242489" />
+      <entry key="MS100" value="5.036275310807758E-4" />
+      <entry key="MS500" value="0.6511769804385016" />
+      <entry key="S2" value="7.835945840453448" />
+      <entry key="S5" value="21.476489271881277" />
+      <entry key="S10" value="38.49722913269147" />
+      <entry key="S30" value="65.48471236309413" />
+      <entry key="S60" value="76.41996977568772" />
+      <entry key="M2" value="82.83718015762952" />
+      <entry key="M5" value="87.03932477944078" />
+      <entry key="M10" value="88.50320062729459" />
+      <entry key="M15" value="88.99843462283312" />
+      <entry key="M30" value="89.49735739222659" />
+      <entry key="H1" value="89.74821176388821" />
+      <entry key="H2" value="89.87398890387615" />
+      <entry key="H4" value="89.93696517673452" />
+      <entry key="D1" value="89.98949012751454" />
+      <entry key="W1" value="89.99849848997165" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.18176388069241986" />
-      <entry key="MS500" value="1.0060126432611174" />
-      <entry key="S2" value="6.967064131451932" />
-      <entry key="S5" value="17.468804306496658" />
-      <entry key="S10" value="26.200811175119977" />
-      <entry key="S30" value="35.60446319608343" />
-      <entry key="S60" value="38.63112079740157" />
-      <entry key="M2" value="40.27010877254669" />
-      <entry key="M5" value="41.2967720254145" />
-      <entry key="M10" value="41.64647625997276" />
-      <entry key="M15" value="41.7638907746435" />
-      <entry key="M30" value="41.88173143243281" />
-      <entry key="H1" value="41.94081211677084" />
-      <entry key="H2" value="41.97039264465666" />
-      <entry key="H4" value="41.98519296716105" />
-      <entry key="D1" value="41.99753169505072" />
-      <entry key="W1" value="41.99964737358958" />
+      <entry key="MS100" value="0.010976691376812876" />
+      <entry key="MS500" value="0.9818581973135868" />
+      <entry key="S2" value="8.554489859545539" />
+      <entry key="S5" value="22.332673355412087" />
+      <entry key="S10" value="39.40785116951223" />
+      <entry key="S30" value="66.44610293484557" />
+      <entry key="S60" value="77.39894112817882" />
+      <entry key="M2" value="83.82616712070528" />
+      <entry key="M5" value="88.03478999182221" />
+      <entry key="M10" value="89.5009107581257" />
+      <entry key="M15" value="89.99690298156061" />
+      <entry key="M30" value="90.49658902364133" />
+      <entry key="H1" value="90.74782693939426" />
+      <entry key="H2" value="90.8737963311753" />
+      <entry key="H4" value="90.9368688502201" />
+      <entry key="D1" value="90.98947406751283" />
+      <entry key="W1" value="90.99849619554887" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -97,31 +97,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/emreerinc/projects/homebrew-tap&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/emreerinc/projects/homebrew-tap",
+    "org.rust.first.attach.projects": "true",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
       </set>
     </attachedChunks>
   </component>
