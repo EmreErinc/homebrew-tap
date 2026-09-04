@@ -1,8 +1,8 @@
 class Envforge < Formula
-  desc "Open-source AI-safe environment manager and secret provider CLI"
-  homepage "https://github.com/emreerinc/envforge"
-  url "https://github.com/emreerinc/envforge/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "42d072694f21850ab4b80c895a3ff5b80dc7055e31c039ee17b72d8fcdd0f94f"
+  desc "AI-safe environment manager and secret provider CLI"
+  homepage "https://envforge.tech"
+  url "https://github.com/emreerinc/envforge/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "dbf88daeac97e7670983a08094d41af38b398d1a89eb38c3b3e560de3d64b4a0"
   license "Elastic-2.0"
   head "https://github.com/emreerinc/envforge.git", branch: "main"
 
